@@ -50,7 +50,7 @@ Iya.addEventListener("click", function () {
         Text.innerHTML = "Selamat hari raya Idul Fitri 1443 Hijriah <br> Mohon Maaf Lahir dan Batin 😁";
         Text.classList.add('text-animate');
     }else if (Iya.value == 9) {
-        Image.setAttribute("src", "https://c.tenor.com/57JSPYRo0k8AAAAj/lebaran-selamat-lebaran.gif");
+        Image.setAttribute("src", "selamat-lebaran.gif");
         Text.classList.remove('text-animate');
         void Text.offsetWidth; 
         Text.innerHTML = "Special by Ervina Novlianti";

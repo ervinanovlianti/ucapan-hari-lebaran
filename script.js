@@ -25,7 +25,7 @@ Iya.addEventListener("click", function () {
     }else if (Iya.value == 4) {
         Text.classList.remove('text-animate');
         void Text.offsetWidth; 
-        Text.innerHTML = "Hati kadang salah sangkah";
+        Text.innerHTML = "Hati kadang salah sangka";
         Text.classList.add('text-animate');
     }else if (Iya.value == 5) {
         Text.classList.remove('text-animate');
